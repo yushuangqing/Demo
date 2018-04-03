@@ -1,4 +1,6 @@
 # Demo
-learning github
+Learning github.
+
 First repository!
+
 I will see my girlfriend!
